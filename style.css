@@ -1,0 +1,5 @@
+.headeroption h2, .footeroption h2{margin: 0}
+.headeroption h2 a, .footeroption h2 a {
+    text-decoration: none;
+    color: wheat;
+}
